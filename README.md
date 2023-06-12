@@ -1,2 +1,2 @@
-# QOSF-Mentorship
-QOSF mentorship tasks
+# Exercícios
+
